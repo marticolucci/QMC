@@ -28,7 +28,7 @@ The code contains the main program and all the subroutines needed for the energy
   # Usage
   1. Insert the parameters of the simulation in the input file, following the example ginven in `input.dat` file
   2. Compile and execute the program, as explained in Installation section
-  3. The program will initiate the VMC and DMC calculations, providing in the output file the ground state energy estimate.
+  3. The program will initiate the VMC and DMC calculations, providing the output file containing the ground state energy and the acceptance ratio with the corresponding error.
 
 # Licence
 This program is released under the GPL-3.0 Licence.
