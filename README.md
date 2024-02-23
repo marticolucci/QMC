@@ -2,7 +2,7 @@
 # Description
 This FORTRAN 90 code is developed for the computation of the ground state energy of atomic and molecular systems using the Variational Monte Carlo and Pure Diffusion Monte Carlo methods.
 
-The Variational Monte Carlo method employs a trial wave function that is iteratively optimized to minimize the expectation value of the Hamiltonian, providing an upper bound estimate of the ground state energy. Conversely, the Diffusion Monte Carlo method utilizes a stochastic algorithm to propagate a set of walkers in imaginary time, converging to the ground state wave function and yielding highly accurate estimates of the ground state energy.
+The Variational Monte Carlo method employs a trial wave function that is iteratively optimized to minimize the expectation value of the Hamiltonian, providing an upper bound estimate of the ground state energy. Conversely, the Diffusion Monte Carlo method utilizes a stochastic algorithm to propagate a set of walkers in imaginary time, converging to the ground state wave function and estimating the ground state energy.
 
 The code contains the main program and all the subroutines needed for the energy calculation.
 
