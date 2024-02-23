@@ -11,9 +11,9 @@ The code contains the main program and all the subroutines needed for the energy
 - Standard Fortran libraries
 
 # Folder Structure
-1. Input file 'input.dat'
-2. Main program 'main.f90'
-3. Output file 'output.dat' generated after the execution of the program
+1. Input file `input.dat`
+2. Main program `main.f90`
+3. Output file `output.dat` generated after the execution of the program
 
 # Installation
 1. Clone the repository or download the source code
@@ -26,10 +26,13 @@ The code contains the main program and all the subroutines needed for the energy
    ./main
 
   # Usage
-  1. Insert the parameters of the simulation in the input file, following the example ginven in 'input.dat' file
+  1. Insert the parameters of the simulation in the input file, following the example ginven in `input.dat` file
   2. Compile and execute the program, as explained in Installation section
   3. The program will initiate the VMC and DMC calculations, providing in the output file the ground state energy estimate.
 
 # Licence
-This software is released under the .
+This program is released under the GPL-3.0 Licence.
+
+# Contact
+For inquiries, bug reports, or suggestions, please reach out to martina.colucci@studenti.unipg.it
    
