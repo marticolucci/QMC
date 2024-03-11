@@ -41,7 +41,7 @@ The input file `input.dat` should be formatted as follows:
 Below are the parameters expected in the input file and the name of the variables to which they are assigned:
 
 - Method ('method'): specifies the method to be used for the simulation. Options include 'VMC' for Variational Monte Carlo or 'PDMC' for Pure Diffusion Monte Carlo.
-- Number of electrons (n_e'): specifires the number of electrons in the system.
+- Number of electrons (n_e'): specifies the number of electrons in the system.
 - Number of nuclei ('n_N'): specifies the number of nuclei in the system.
 - System ('system'): indicates the system under consideration, for which the program will compute the ground state energy.
 - a parameter ('a'): specifies the value of a parameter included in the definition of the wavefunction. It depends on the type of atom (eg. a=1 for H, a=2 for He).
