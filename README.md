@@ -59,13 +59,13 @@ Below are the parameters expected in the input file and the name of the variable
 
 The output file `results.dat` contains the results of the simulation. Below is a description of the information included in the output file:
 - Information about the system, including:
-  - the atom or molecule under consideration
-  - the number of electrons
-  - the number of nuclei
-  - coordinates of the nuclei
-- Method used to compute the energy
+  - the atom or molecule under consideration;
+  - the number of electrons;
+  - the number of nuclei;
+  - coordinates of the nuclei;
+- Method used to compute the energy;
 - Results:
-  - Estimated ground state energy with the corresponding error
+  - Estimated ground state energy with the corresponding error;
   - Acceptace ratio (ratio of number of accepted steps to total number of steps) with the corresponding error.
 
 # Licence
